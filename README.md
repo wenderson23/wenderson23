@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu Nome é Wenderson Sou um profissional em desenvolvimento de software especialmente em sistemas Back-End usando Java Spring Boot .</p>
+<p align="left">Meu Nome é Wenderson Sou um profissional em desenvolvimento de software especialmente em sistemas Back-End usando Java Spring Boot .Meu foco é trabalhar em projetos desafiadores e aprender continuamente para aprimorar minhas habilidades.</p>
 
 ###
 
