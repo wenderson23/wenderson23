@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**wenderson23/wenderson23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu Nome é Wenderson Sou um profissional em desenvolvimento de software especialmente em sistemas Back-End usando Java Spring Boot .</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h4 align="left">Busco iniciar minha carreira como Desenvolvedor, utilizando meus conhecimentos em Java, <br>SQL. Tenho interesse em contribuir para projetos inovadores e continuar me desenvolvendo <br>profissionalmente na área de tecnologia.</h4>
+
+###
+
+<p align="left">🧠 Soft Skills: <br><br>• Aprendizado ativo;<br>• Comunicação;<br>• Proatividade;<br>• Criatividade;<br>• Otimismo;</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
+
+###
