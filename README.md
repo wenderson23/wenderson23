@@ -10,6 +10,9 @@
 
 ###
 
+<p align="left"> Habilidades:: <br><br>• Desenvolvimento de soluções escaláveis com Java e Spring Boot.<br>• Gerenciamento de dados e otimização de consultas SQL. <br>• Criação e manutenção de APIs RESTful para integração entre sistemas.</p>
+
+###
 <p align="left">🧠 Soft Skills: <br><br>• Aprendizado ativo;<br>• Comunicação;<br>• Proatividade;<br>• Criatividade;<br>• Otimismo;</p>
 
 ###
