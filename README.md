@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Meu Nome é Wenderson Sou um profissional em desenvolvimento de software especialmente em sistemas Back-End usando Java Spring Boot .Meu foco é trabalhar em projetos desafiadores e aprender continuamente para aprimorar minhas habilidades.</p>
+<p align="left">Meu Nome é Wenderson Sou um desenvolvedor de software com experiência em Back-End, especializado em Java e Spring Boot. Com um forte compromisso com o aprendizado contínuo, estou sempre em busca de desafios que me permitam crescer e aplicar minhas habilidades em ambientes de desenvolvimento ágeis e inovadores..</p>
 
 ###
 
-<h4 align="left">Busco iniciar minha carreira como Desenvolvedor, utilizando meus conhecimentos em Java, <br>SQL. Tenho interesse em contribuir para projetos inovadores e continuar me desenvolvendo <br>profissionalmente na área de tecnologia.</h4>
+<h4 align="left">Estou focado em iniciar minha carreira como desenvolvedor e trabalhar em projetos que contribuam para minha evolução técnica. Tenho como meta aplicar minhas habilidades em Java e Spring Boot, sempre buscando novos aprendizados para agregar valor às equipes e projetos nos quais estou envolvido.</h4>
 
 ###
 
